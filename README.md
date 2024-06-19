@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Neha!
 
-🎓 CS Undergrad'26 at BIT Mesra<br/>
+🎓 CSE Undergrad'26 at BIT Mesra<br/>
 🌐 Check out my latest project here. <br/>
 🚀 Let’s collaborate and build something amazing together!<br/>
 
